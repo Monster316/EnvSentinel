@@ -1,3 +1,5 @@
+[![Node.js Tests](https://github.com/Monster316/EnvSentinel/actions/workflows/tests.yml/badge.svg)](https://github.com/Monster316/EnvSentinel/actions/workflows/tests.yml)
+
 # EnvSentinel
 
 > Experimental developer utility · standalone JavaScript · Node.js 20+
